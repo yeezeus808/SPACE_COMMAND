@@ -57,3 +57,5 @@ STEP 5_ Run the game
 Need extra help? Here's a video walkthrough
 https://www.youtube.com/watch?v=5uOTEOJ48G8
 
+here is a the google doc full of cool stuff 
+https://docs.google.com/document/d/1EwJQLCheqogO_1MzGCXc7vC-lrom2boVh59pMGOg_sc/edit?usp=sharing
